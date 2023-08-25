@@ -1,4 +1,4 @@
-# BadTracer
+# BadTracer 1.0 \[ written on 2017\]
 A basic Ray Tracing Algorithm. 🌈💡
 - Takes a Sphere, and takes its ray-traced photo with a perspective camera. Written in python.
 
